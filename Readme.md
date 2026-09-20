@@ -1,0 +1,1 @@
+This project will contain source code of Student attendance system
